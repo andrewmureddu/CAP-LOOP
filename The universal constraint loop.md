@@ -1,5 +1,7 @@
 # The universal constraint loop: How systems evolve through cyclical pressures across all domains
 
+Andrew Mureddu - Independent Researcher
+
 The constraint→alignment→persistence→new constraint loop represents one of the most widespread yet under-recognized patterns in science and philosophy.  This research reveals that this cyclical dynamic—where systems encounter constraints, self-organize in response, stabilize into persistent structures, and generate new constraints—appears implicitly or explicitly across at least 15 major domains spanning physics, biology, social systems, and abstract theory. Rather than a metaphor, this pattern describes a fundamental mechanism of how complex systems evolve.
 
 ## Physics and cosmology: From molecules to galaxies
